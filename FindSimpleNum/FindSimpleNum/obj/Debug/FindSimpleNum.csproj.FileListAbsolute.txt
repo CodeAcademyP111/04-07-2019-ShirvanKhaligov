@@ -1,0 +1,7 @@
+C:\Users\SHIRVAN\Desktop\FindSimpleNum\FindSimpleNum\bin\Debug\FindSimpleNum.exe.config
+C:\Users\SHIRVAN\Desktop\FindSimpleNum\FindSimpleNum\bin\Debug\FindSimpleNum.exe
+C:\Users\SHIRVAN\Desktop\FindSimpleNum\FindSimpleNum\bin\Debug\FindSimpleNum.pdb
+C:\Users\SHIRVAN\Desktop\FindSimpleNum\FindSimpleNum\obj\Debug\FindSimpleNum.csproj.CoreCompileInputs.cache
+C:\Users\SHIRVAN\Desktop\FindSimpleNum\FindSimpleNum\obj\Debug\FindSimpleNum.exe
+C:\Users\SHIRVAN\Desktop\FindSimpleNum\FindSimpleNum\obj\Debug\FindSimpleNum.pdb
+C:\Users\SHIRVAN\Desktop\FindSimpleNum\FindSimpleNum\obj\Debug\FindSimpleNum.csprojResolveAssemblyReference.cache
